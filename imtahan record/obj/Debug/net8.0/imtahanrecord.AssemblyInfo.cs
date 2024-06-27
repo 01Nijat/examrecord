@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("imtahanrecord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ab602b627a3bae59b78ad051c50327a198b112")]
 [assembly: System.Reflection.AssemblyProductAttribute("imtahanrecord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("imtahanrecord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

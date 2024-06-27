@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\imtahanrecord\\imtahanrecord.csproj": {}
+    "C:\\Users\\User\\imtahanrecord\\imtahan record\\imtahanrecord.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\imtahanrecord\\imtahanrecord.csproj": {
+    "C:\\Users\\User\\imtahanrecord\\imtahan record\\imtahanrecord.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\imtahanrecord\\imtahanrecord.csproj",
+        "projectUniqueName": "C:\\Users\\User\\imtahanrecord\\imtahan record\\imtahanrecord.csproj",
         "projectName": "imtahanrecord",
-        "projectPath": "C:\\Users\\User\\imtahanrecord\\imtahanrecord.csproj",
+        "projectPath": "C:\\Users\\User\\imtahanrecord\\imtahan record\\imtahanrecord.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\imtahanrecord\\obj\\",
+        "outputPath": "C:\\Users\\User\\imtahanrecord\\imtahan record\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
