@@ -1,0 +1,6 @@
+@imtahanrecord_HostAddress = http://localhost:5256
+
+GET {{imtahanrecord_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
